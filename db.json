@@ -1,27 +1,5 @@
 {
-  "teste": [
-    { 
-      "zonas": [
-        { "cod_zona":1, "num_ruas":10, "preco":100 }, 
-        { "cod_zona":2, "num_ruas":15, "preco":200 },
-        { "cod_zona":3, "num_ruas":10, "preco":300 } ]
-    },
-    {
-      "ruas": [
-        { "cod_rua":1, "cod_zona":1, "nome":"Avenida Central", "num_lugares":5 },
-        { "cod_rua":2, "cod_zona":1, "nome":"Rua de Santo André", "num_lugares":5 },
-        { "cod_rua":3, "cod_zona":2, "nome":"Rua 25 de Abril", "num_lugares":5 },
-        { "cod_rua":4, "cod_zona":2, "nome":"Rua do Carmo", "num_lugares":4 },
-        { "cod_rua":5, "cod_zona":3, "nome":"Praça do Comércio", "num_lugares":8 },
-        { "cod_rua":6, "cod_zona":3, "nome":"Rua Sá de Miranda", "num_lugares":5 } ]
-    },
-    {
-      "tipo_lugares": [
-        { "cod_tipoLugar":1, "nome":"Mobilidade Reduzida" },
-        { "cod_tipoLugar":2, "nome":"Normal" },
-        { "cod_tipoLugar":3, "nome":"Curta Duração" } ]
-    },
-    {
+  
       "lugares": [
         { "cod_lugar":1, "cod_rua":1, "cod_tipoLugar":2, "estado":false, "latitude":41.551809, "longitude":-8.420345 },
         { "cod_lugar":2, "cod_rua":1, "cod_tipoLugar":2, "estado":false, "latitude":41.551810, "longitude":-8.420179 },
@@ -56,6 +34,4 @@
         { "cod_lugar":31, "cod_rua":6, "cod_tipoLugar":3, "estado":false, "latitude":41.545855, "longitude":-8.423072 },
         { "cod_lugar":32, "cod_rua":6, "cod_tipoLugar":2, "estado":false, "latitude":41.546046, "longitude":-8.422242 } ]
     }
-  ] 
-}
-
+  
