@@ -1,16 +1,17 @@
-
-  [
-    { 
-    "zona": [
-      { "cod_zona":1, "num_ruas":10, "preco":100 }, 
-      { "cod_zona":2, "num_ruas":15, "preco":200 },
-      { "cod_zona":3, "num_ruas":10, "preco":300 }]
-    },
-    {
-      "lugares": [
-      { "id_lugar":1, "nome_rua":"Avenida Central", "latitude":41.551795, "longitude":-8.421780 },
-      { "id_lugar":2, "nome_rua":"Avenida Central", "latitude":41.551795, "longitude":-8.421622 },
-      { "id_lugar":3, "nome_rua":"Avenida Central", "latitude":41.551792, "longitude":-8.421349 } ]
-    }
+{
+  "teste": [
+      { 
+      "zona": [
+        { "cod_zona":1, "num_ruas":10, "preco":100 }, 
+        { "cod_zona":2, "num_ruas":15, "preco":200 },
+        { "cod_zona":3, "num_ruas":10, "preco":300 }]
+      },
+      {
+        "lugares": [
+        { "id_lugar":1, "nome_rua":"Avenida Central", "latitude":41.551795, "longitude":-8.421780 },
+        { "id_lugar":2, "nome_rua":"Avenida Central", "latitude":41.551795, "longitude":-8.421622 },
+        { "id_lugar":3, "nome_rua":"Avenida Central", "latitude":41.551792, "longitude":-8.421349 } ]
+      }
   ] 
+}
 
