@@ -1,29 +1,6 @@
 {"lugares": [
         { "cod_lugar":1, "cod_rua":1, "cod_tipoLugar":2, "estado":false, "latitude":41.551809, "longitude":-8.420345 },
         { "cod_lugar":2, "cod_rua":1, "cod_tipoLugar":2, "estado":false, "latitude":41.551810, "longitude":-8.420179 },
-        { "cod_lugar":3, "cod_rua":1, "cod_tipoLugar":1, "estado":false, "latitude":41.551801, "longitude":-8.420005 },
-        { "cod_lugar":4, "cod_rua":1, "cod_tipoLugar":3, "estado":false, "latitude":41.551778, "longitude":-8.419766 },
-        { "cod_lugar":5, "cod_rua":1, "cod_tipoLugar":2, "estado":false, "latitude":41.551759, "longitude":-8.419590 },
-        { "cod_lugar":6, "cod_rua":2, "cod_tipoLugar":3, "estado":false, "latitude":41.553570, "longitude":-8.421189 },
-        { "cod_lugar":7, "cod_rua":2, "cod_tipoLugar":2, "estado":false, "latitude":41.553579, "longitude":-8.421318 },
-        { "cod_lugar":8, "cod_rua":2, "cod_tipoLugar":3, "estado":false, "latitude":41.553590, "longitude":-8.421467 },
-        { "cod_lugar":9, "cod_rua":2, "cod_tipoLugar":1, "estado":false, "latitude":41.553600, "longitude":-8.421658 },
-        { "cod_lugar":10, "cod_rua":2, "cod_tipoLugar":2, "estado":false, "latitude":41.553623, "longitude":-8.422098 },
-        { "cod_lugar":11, "cod_rua":3, "cod_tipoLugar":1, "estado":false, "latitude":41.549966, "longitude":-8.416604 },
-        { "cod_lugar":12, "cod_rua":3, "cod_tipoLugar":2, "estado":false, "latitude":41.549738, "longitude":-8.417158 },
-        { "cod_lugar":13, "cod_rua":3, "cod_tipoLugar":2, "estado":false, "latitude":41.549638, "longitude":-8.417414 },
-        { "cod_lugar":14, "cod_rua":3, "cod_tipoLugar":3, "estado":false, "latitude":41.549450, "longitude":-8.417743 },
-        { "cod_lugar":15, "cod_rua":3, "cod_tipoLugar":2, "estado":false, "latitude":41.549329, "longitude":-8.417875 },
-        { "cod_lugar":16, "cod_rua":4, "cod_tipoLugar":2, "estado":false, "latitude":41.553052, "longitude":-8.425798 },
-        { "cod_lugar":17, "cod_rua":4, "cod_tipoLugar":3, "estado":false, "latitude":41.553846, "longitude":-8.425610 },
-        { "cod_lugar":18, "cod_rua":4, "cod_tipoLugar":1, "estado":false, "latitude":41.553631, "longitude":-8.425779 },
-        { "cod_lugar":19, "cod_rua":4, "cod_tipoLugar":2, "estado":false, "latitude":41.553331, "longitude":-8.425799 },
-        { "cod_lugar":20, "cod_rua":5, "cod_tipoLugar":2, "estado":false, "latitude":41.554040, "longitude":-8.426708 },
-        { "cod_lugar":21, "cod_rua":5, "cod_tipoLugar":2, "estado":false, "latitude":41.553985, "longitude":-8.426919 },
-        { "cod_lugar":22, "cod_rua":5, "cod_tipoLugar":1, "estado":false, "latitude":41.554027, "longitude":-8.426757 },
-        { "cod_lugar":23, "cod_rua":5, "cod_tipoLugar":3, "estado":false, "latitude":41.553904, "longitude":-8.427254 },
-        { "cod_lugar":24, "cod_rua":5, "cod_tipoLugar":2, "estado":false, "latitude":41.553849, "longitude":-8.427477 },
-        { "cod_lugar":25, "cod_rua":5, "cod_tipoLugar":3, "estado":false, "latitude":41.553730, "longitude":-8.427983 },
-        { "cod_lugar":26, "cod_rua":6, "cod_tipoLugar":2, "estado":false, "latitude":41.545092, "longitude":-8.424145 },
-        { "cod_lugar":27, "cod_rua":6, "cod_tipoLugar":2, "estado":false, "latitude":41.545490, "longitude":-8.424290 }]}
+        { "cod_lugar":3, "cod_rua":1, "cod_tipoLugar":1, "estado":false, "latitude":41.551801, "longitude":-8.420005 }
+        ]}
   
