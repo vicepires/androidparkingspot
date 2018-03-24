@@ -1,4 +1,4 @@
-{ 
+{{ 
   "zona": [
     { "cod_zona":1, "num_ruas":10, "preco":100 }, 
     { "cod_zona":2, "num_ruas":15, "preco":200 },
@@ -12,4 +12,4 @@
   { "id_lugar":2, "nome_rua":"Avenida Central", "latitude":41.551795, "longitude":-8.421622 },
   { "id_lugar":3, "nome_rua":"Avenida Central", "latitude":41.551792, "longitude":-8.421349 }
   ]
-}
+}}
