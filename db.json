@@ -1,6 +1,4 @@
-{
-  
-      "lugares": [
+{"lugares": [
         { "cod_lugar":1, "cod_rua":1, "cod_tipoLugar":2, "estado":false, "latitude":41.551809, "longitude":-8.420345 },
         { "cod_lugar":2, "cod_rua":1, "cod_tipoLugar":2, "estado":false, "latitude":41.551810, "longitude":-8.420179 },
         { "cod_lugar":3, "cod_rua":1, "cod_tipoLugar":1, "estado":false, "latitude":41.551801, "longitude":-8.420005 },
@@ -27,8 +25,5 @@
         { "cod_lugar":24, "cod_rua":5, "cod_tipoLugar":2, "estado":false, "latitude":41.553849, "longitude":-8.427477 },
         { "cod_lugar":25, "cod_rua":5, "cod_tipoLugar":3, "estado":false, "latitude":41.553730, "longitude":-8.427983 },
         { "cod_lugar":26, "cod_rua":6, "cod_tipoLugar":2, "estado":false, "latitude":41.545092, "longitude":-8.424145 },
-        { "cod_lugar":27, "cod_rua":6, "cod_tipoLugar":2, "estado":false, "latitude":41.545490, "longitude":-8.424290 }
-        
-         ]
-    }
+        { "cod_lugar":27, "cod_rua":6, "cod_tipoLugar":2, "estado":false, "latitude":41.545490, "longitude":-8.424290 }]}
   
